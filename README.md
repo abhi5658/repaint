@@ -1,4 +1,4 @@
-### Try out by running the application: [Download Repaint.exe (Windows)](/Repaint.exe?raw=true)
+### Try out by running the application: [Download Repaint.exe (Windows)](https://github.com/abhi5658/repaint/raw/master/Repaint.exe)
 > After clicking on downlaod it might say that the file "*...is not commonly downloaded and may be dangerous*". Since this was locally generated .exe file and I didnt knew how to add a publisher to executable, the system shows the file as dangerous. All in all the risk is yours and would stay as it is.
 
 ## How to draw? :art:
